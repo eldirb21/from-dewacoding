@@ -1,0 +1,10 @@
+
+app
+    data
+        dao = Data Access Object => suatu fungsi yang memproses langsung data tersebut atau melakukan query langsung
+        model = entity class
+
+
+
+dependency injection = semacan function yang bisa di gunakan oleh lebih dari satu action atau semacam function global.
+dependency yang di gunakan adalah hilt

@@ -1,0 +1,13 @@
+di ini singkatan dari depenency injection
+
+Dependency Injection (DI) adalah sebuah konsep desain perangkat lunak yang bertujuan untuk
+    mengurangi ketergantungan antar komponen dalam suatu sistem.
+
+Tujuan utama dari Dependency Injection adalah untuk memisahkan pembuatan objek (instantiation)
+    dari penggunaan objek (consumption), sehingga kelas atau modul tidak bergantung pada
+    implementasi kelas atau modul lainnya secara langsung.
+
+kalau di js seperti function global.
+
+
+@SingletonComponent tujuannya agar modul tersebut hanya dibuat 1x dan bisa di pake di banyak tempat
